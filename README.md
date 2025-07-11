@@ -1,5 +1,5 @@
-  --------------------------------------------------------------------------THE FOLLOWING PROBLEMS ARE WRITTEN IN PYTHON LANGUAGE--------------------------------------------------------------------------------- 
---------------------------------------------------------------------------------------------VERSION python 3.6.0----------------------------------------------------------------------------------------------------
+THE FOLLOWING PROBLEMS ARE WRITTEN IN PYTHON LANGUAGE
+VERSION python 3.6.0
 ------these are the solution for following problems given below-------
 Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
   Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
